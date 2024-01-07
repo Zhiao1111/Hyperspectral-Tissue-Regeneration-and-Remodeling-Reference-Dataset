@@ -7,7 +7,7 @@ Extraction Code: 2024
 # Data Source:
 The regenerative bioscaffolds used in this study were developed by Beijing Ruijian Gaoke Biotechnology Co.
  
-# Data content:
+## Data content:
 The dataset is mainly divided into two parts: reflectance spectroscopy data and transmission spectroscopy data. Each part of the data comes from different tissues and time points:
  
 -Animal muscle tissue
